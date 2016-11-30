@@ -6,7 +6,6 @@
 #     move: A function that returns 'c' or 'b'
 ####
 
-team_name = 'The name the team gives to itself' # Only 10 chars displayed.
 team_name = 'T' # Only 10 chars displayed.
 strategy_name = 'Arnold'
 strategy_description = 'Betrtay every single time'
